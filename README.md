@@ -1,4 +1,4 @@
-# Water-Quantity-Measurement <a href="https://dt021a-3.wixsite.com/website/ultrasonic-level" target= "_blank" >View Project</a> 
+# Water Quantity Measurement using Ultrasonic Sensor <a href="https://dt021a-3.wixsite.com/website/ultrasonic-level" target= "_blank" >View Project</a> 
 
 <h2>Project Details: </h2>
 <p>This project measures the water level in the tank using ultrasonic sensor</p>
